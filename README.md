@@ -31,7 +31,6 @@ Freelance web designer and regulatory compliance consultant. I help businesses g
 
  📫 Let's Talk
 - 📧 Email: noahaladesofin@gmail.com
-- 💼 LinkedIn: Noah Josiah
 - 📱 WhatsApp: +234 9034060873
 
-*Currently accepting new clients.
+*Currently accepting new clients.*
