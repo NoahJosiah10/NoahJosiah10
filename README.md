@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Noah Josiah👋
 
-<!--
-**NoahJosiah10/NoahJosiah10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Freelance web designer and regulatory compliance consultant.
+I help businesses get online and get compliant, so they can focus on running their business.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🎨 Web Design
+
+**Website design
+Clean, professional, mobile-friendly websites built around your brand and your customers.
+
+*WordPress design and development
+Custom WordPress sites, theme setup and customization, and easy-to-manage layouts so you can update your own content without stress.
+
+
+📋 Compliance and Registration
+
+**FDA registration and compliance
+Support with FDA registration and the compliance requirements for food and other FDA-regulated businesses selling into the U.S. market.
+
+*FSVP compliance
+Help with Foreign Supplier Verification Program (FSVP) requirements for importers and foreign suppliers.
+
+**Company registration
+Guidance and support setting up and registering your business in Different EU countries.
+
+**And more
+Have something related that isn't listed here? Reach out and ask.
+
+
+ 🤝 How I Work
+
+- Clear scope and pricing before we start
+- Regular updates, so you always know where things stand
+- Honest advice, including when something isn't the right fit for you
+
+
+ 📫 Let's Talk
+- 📧 Email: noahaladesofin@gmail.com
+- 💼 LinkedIn: Noah Josiah
+- 📱 WhatsApp: +234 9034060873
+
+*Currently accepting new clients.
